@@ -1,0 +1,8 @@
+D:\Projects_GUI\Image Viewer\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Projects_GUI\Image Viewer\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects_GUI\Image Viewer\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\Projects_GUI\Image Viewer\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\Projects_GUI\Image Viewer App\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Projects_GUI\Image Viewer App\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects_GUI\Image Viewer App\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\Projects_GUI\Image Viewer App\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
